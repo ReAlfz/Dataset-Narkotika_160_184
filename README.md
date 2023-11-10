@@ -12,8 +12,9 @@
   </p>
 </div>
 
-
 ### Authors
-- [@ReAlfz](https://www.github.com/ReAlfz)
-- [@akramdhaifullah](https://www.github.com/akramdhaifullah)
+- Alfian Rudiyanto ([@ReAlfz](https://www.github.com/ReAlfz))
+- Muhammad Akram Dhaifullah ([@akramdhaifullah](https://www.github.com/akramdhaifullah))
+
+
 
